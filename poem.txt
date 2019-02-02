@@ -2,6 +2,13 @@ Stopping By Woods On A Snowy Evening
 
     By Robert Lee Frost
 
+ 	    \/
+        _\_\/\/_/_
+         _\_\/_/_
+        __/_/\_\__
+         / /\/\ \
+            /\		
+
 Whose woods these are I think I know.
 His house is in the village, though;
 He will not see me stopping here
